@@ -11,5 +11,5 @@
 
 ## Connect 
 - CAN (Inverse Kinematics)
-- ESP32
 - Wifi (video&audio stream)
+
